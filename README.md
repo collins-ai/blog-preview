@@ -14,8 +14,8 @@ The project was an interesting one, I worked with media query for responsiveness
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/collins-ai/blog-preview.git)
+- Live Site URL: [Add live site URL here](https://collins-ai.github.io/blog-preview/)
 
 ### Built with
 
