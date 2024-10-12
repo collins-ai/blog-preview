@@ -1,6 +1,70 @@
 .attribution {
     font-size: 11px; text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 40%;
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+.body {
+    background-color: rgb(244, 208, 78);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carrier {
+    background-color: rgb(255, 255, 255);
+    width: 384px;
+    height: 522px;
+    border-radius: 15px;
+    box-shadow: 10px 10px rgb(17, 17, 17);
+    padding: 24px;
+}
+.head img {
+    width: 336px;
+    height: 200px;
+    border-radius: 10px;
+}
+.content a {
+    text-decoration: none;
+    color: rgb(17, 17, 17);
+    background-color: rgb(244, 208, 78);
+    width: 82px;
+    height: 29px;
+    display: block;
+    border-radius: 5px;
+    margin: 24px 0;
+    font-size: 14px;
+    line-height: 150%;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 3px;
+}
+.content .p1 {
+    font-size: 14px;
+    line-height: 150%;
+}
+.content h1 {
+    font-size: 24px;
+    line-height: 150%;
+}
+.content p2 {
+    font-size: 16px;
+    line-height: 150%;
+}
+.foot {
+    width: 129px;
+    height: 32px;
+}
+.foot img {
+    width: 32px;
+    height: 32px;
+}
+.foot span {
+    font-size: 14px;
+    line-height: 150%;
+    font-weight: bold;
 }
